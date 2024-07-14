@@ -9,8 +9,6 @@ The user can play against the computer, and the first to reach 3 points wins the
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 The Rock, Paper, Scissors game allows users to play against the computer. 
