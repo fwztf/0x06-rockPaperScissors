@@ -1,6 +1,6 @@
 # rockPaperScissors
 This project is a web-based implementation of the classic game Rock, Paper, Scissors. 
-The user can play against the computer, and the first to reach 3 points wins the game.
+The user can play against the computer, and the first to reach 3 points wins the game
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,16 +12,16 @@ The user can play against the computer, and the first to reach 3 points wins the
 ## Overview
 The Rock, Paper, Scissors game allows users to play against the computer. 
 The game keeps track of the scores, and the first to reach 3 points is declared the winner. 
-The user can reset the game at any time to start over.
+The user can reset the game at any time to start over
 
 ## Features
-- Play Rock, Paper, Scissors against the computer.
-- Track scores for both the player and the computer.
-- Display results of each round and declare the winner when one reaches 3 points.
-- Reset the game to start over.
+- Play Rock, Paper, Scissors against the computer
+- Track scores for both the player and the computer
+- Display results of each round and declare the winner when one reaches 3 points
+- Reset the game to start over
 
 ## Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
+Follow these instructions to get a copy of the project up and running on your local machine
 
 ### Prerequisites
 - A web browser (e.g., Chrome, Firefox, Edge, etc.)
