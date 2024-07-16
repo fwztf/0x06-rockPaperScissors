@@ -1,5 +1,5 @@
 # rockPaperScissors
-The sixth project under the FCC JS algorithms and data structures curriculum
+The sixth project under the FCC JS algorithms and data structures curriculum.
 This project is a web-based implementation of the classic game Rock, Paper, Scissors. 
 The user can play against the computer, and the first to reach 3 points wins the game.
 
